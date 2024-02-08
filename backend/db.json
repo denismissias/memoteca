@@ -1,0 +1,22 @@
+{
+  "pensamentos": [
+    {
+      "id": 2,
+      "conteudo": "A vida é aquilo que acontece enquanto você está fazendo planos.",
+      "autoria": "John Lennon",
+      "modelo": "modelo1"
+    },
+    {
+      "id": 3,
+      "conteudo": "O sucesso é ir de fracasso em fracasso sem perder entusiasmo.",
+      "autoria": "Winston Churchill",
+      "modelo": "modelo3"
+    },
+    {
+      "conteudo": "O que não provoca minha morte faz com que eu fique mais forte.",
+      "autoria": "Friedrich Nietzsche",
+      "modelo": "modelo2",
+      "id": 4
+    }
+  ]
+}
